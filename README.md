@@ -1,2 +1,2 @@
 # mShell
-A minimal shell written in C.
+A minimal shell written in C++.
